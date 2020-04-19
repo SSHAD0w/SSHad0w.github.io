@@ -1,6 +1,6 @@
 ---
 layout: post
-title:sans date
+title: sans date
 ---
 
 
